@@ -2,8 +2,6 @@
 
 Codec-native hierarchical memory system for efficient video-language understanding.
 
-**Target venues:** CVPR / MLSys  
-**Supervisor:** Dr. Uma D, CDSAML, PES University
 
 ## Core novelty
 
@@ -34,14 +32,6 @@ IRIS uses H.264 codec residual energy as a unified cognitive controller that sim
 | Ablation 2  | None         | Uniform NLI      |
 | Full IRIS   | Both jointly | Risk-proportional|
 
-## Team tracks
-
-| Track | Owner | Files |
-|-------|-------|-------|
-| A — Codec + Cache | Siddanth | `charon_v.py`, `l1_elysium.py`, `iris_config.py` |
-| B — LLM + Pipeline | Teammate 2 | `aria.py`, `pipeline.py` |
-| C — Video RAG | Teammate 3 | `l2_asphodel.py` |
-| D — NLI + Eval | Teammate 4 | `cerberus_v.py`, `eval_suite.py` |
 
 ## Branch strategy
 
